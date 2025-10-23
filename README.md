@@ -1,11 +1,12 @@
 <!-- 🌌 Top-Tier Animated GitHub README by Tanmay Joddar -->
-
 <div align="center">
-
-<h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=550&lines=👋+Hey+there%2C+I'm+Tanmay+Joddar!;Full+Stack+Developer+→+Backend+Engineer;Crafting+Scalable+and+Performant+Systems" alt="Typing SVG" />
-
-</h1>
+  <h1 align="center">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Tanmay+Joddar!;Full+Stack+Developer+→+Backend+Engineer;Crafting+Scalable+and+Performant+Systems"
+      alt="Typing SVG"
+    />
+  </h1>
+</div>
 
 <p>
   <strong>💡 Full-Stack Developer → Backend Engineer</strong><br>
