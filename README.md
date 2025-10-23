@@ -1,22 +1,34 @@
-<!-- 🌌 Top-Tier Animated GitHub README by Tanmay Joddar -->
+<!-- 🌌 Ultimate Unique GitHub README Header by Tanmay Joddar -->
+
 <div align="center">
-  <h1 align="center">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Tanmay+Joddar!;Full+Stack+Developer+→+Backend+Engineer;Crafting+Scalable+and+Performant+Systems"
-      alt="Typing SVG"
-    />
-  </h1>
+
+  <!-- ✨ Animated Typing Banner -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Tanmay+Joddar!;Full+Stack+Developer+→+Backend+Engineer;Crafting+Scalable+and+Performant+Systems"
+    alt="Typing SVG"
+  />
+
+  <br/>
+
+  <!-- 🧠 Tagline -->
+  <p>💡 <strong>Full-Stack Developer → Backend Engineer</strong><br>
+  Building <b>scalable</b>, <b>performant</b> server-side systems & APIs with a blend of creativity and architecture.</p>
+
+  <br/>
+
+  <!-- 🌊 Wavy Gradient Divider -->
+  <img src="https://raw.githubusercontent.com/TanmayJoddar/animated-assets/main/wave-divider.svg" width="100%" />
+
+  <!-- 🐍 GitHub Contribution Snake -->
+  <img src="https://github.com/TanmayJoddar/TanmayJoddar/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
+  <!-- 🌈 Animated Metrics Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=tanmayjoddar&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="80%" />
+
+  <!-- 🌌 Animated Glow Line -->
+  <img src="https://raw.githubusercontent.com/TanmayJoddar/animated-assets/main/glow-line.svg" width="100%" />
+
 </div>
-
-<p>
-  <strong>💡 Full-Stack Developer → Backend Engineer</strong><br>
-  Building <b>scalable</b>, <b>performant</b> server-side systems & APIs with a blend of creativity and architecture.
-</p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
 ---
 
 ### 🌐 Let’s Connect  
