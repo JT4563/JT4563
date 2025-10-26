@@ -1,2 +1,1 @@
-![Visitors](https://visitcount.itsvg.in/api?id=tanmayjoddar&icon=0&color=12)
-
+![Profile Views](https://komarev.com/ghpvc/?username=tanmayjoddar&label=Profile%20Views&color=0e75b6&style=flat)
